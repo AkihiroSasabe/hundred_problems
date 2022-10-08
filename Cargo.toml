@@ -1,0 +1,410 @@
+[package]
+name = "hundred_problems"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.3.6"
+itertools = "0.10.3"
+
+[[bin]]
+name = "q001"
+path = "src/q001.rs"
+
+[[bin]]
+name = "q002"
+path = "src/q002.rs"
+
+[[bin]]
+name = "q003"
+path = "src/q003.rs"
+
+[[bin]]
+name = "q004"
+path = "src/q004.rs"
+
+[[bin]]
+name = "q005"
+path = "src/q005.rs"
+
+[[bin]]
+name = "q006"
+path = "src/q006.rs"
+
+[[bin]]
+name = "q007"
+path = "src/q007.rs"
+
+[[bin]]
+name = "q008"
+path = "src/q008.rs"
+
+[[bin]]
+name = "q009"
+path = "src/q009.rs"
+
+[[bin]]
+name = "q010"
+path = "src/q010.rs"
+
+[[bin]]
+name = "q011"
+path = "src/q011.rs"
+
+[[bin]]
+name = "q012"
+path = "src/q012.rs"
+
+[[bin]]
+name = "q013"
+path = "src/q013.rs"
+
+[[bin]]
+name = "q014"
+path = "src/q014.rs"
+
+[[bin]]
+name = "q015"
+path = "src/q015.rs"
+
+[[bin]]
+name = "q016"
+path = "src/q016.rs"
+
+[[bin]]
+name = "q017"
+path = "src/q017.rs"
+
+[[bin]]
+name = "q018"
+path = "src/q018.rs"
+
+[[bin]]
+name = "q019"
+path = "src/q019.rs"
+
+[[bin]]
+name = "q020"
+path = "src/q020.rs"
+
+[[bin]]
+name = "q021"
+path = "src/q021.rs"
+
+[[bin]]
+name = "q022"
+path = "src/q022.rs"
+
+[[bin]]
+name = "q023"
+path = "src/q023.rs"
+
+[[bin]]
+name = "q024"
+path = "src/q024.rs"
+
+[[bin]]
+name = "q025"
+path = "src/q025.rs"
+
+[[bin]]
+name = "q026"
+path = "src/q026.rs"
+
+[[bin]]
+name = "q027"
+path = "src/q027.rs"
+
+[[bin]]
+name = "q028"
+path = "src/q028.rs"
+
+[[bin]]
+name = "q029"
+path = "src/q029.rs"
+
+[[bin]]
+name = "q030"
+path = "src/q030.rs"
+
+[[bin]]
+name = "q031"
+path = "src/q031.rs"
+
+[[bin]]
+name = "q032"
+path = "src/q032.rs"
+
+[[bin]]
+name = "q033"
+path = "src/q033.rs"
+
+[[bin]]
+name = "q034"
+path = "src/q034.rs"
+
+[[bin]]
+name = "q035"
+path = "src/q035.rs"
+
+[[bin]]
+name = "q036"
+path = "src/q036.rs"
+
+[[bin]]
+name = "q037"
+path = "src/q037.rs"
+
+[[bin]]
+name = "q038"
+path = "src/q038.rs"
+
+[[bin]]
+name = "q039"
+path = "src/q039.rs"
+
+[[bin]]
+name = "q040"
+path = "src/q040.rs"
+
+[[bin]]
+name = "q041"
+path = "src/q041.rs"
+
+[[bin]]
+name = "q042"
+path = "src/q042.rs"
+
+[[bin]]
+name = "q043"
+path = "src/q043.rs"
+
+[[bin]]
+name = "q044"
+path = "src/q044.rs"
+
+[[bin]]
+name = "q045"
+path = "src/q045.rs"
+
+[[bin]]
+name = "q046"
+path = "src/q046.rs"
+
+[[bin]]
+name = "q047"
+path = "src/q047.rs"
+
+[[bin]]
+name = "q048"
+path = "src/q048.rs"
+
+[[bin]]
+name = "q049"
+path = "src/q049.rs"
+
+[[bin]]
+name = "q050"
+path = "src/q050.rs"
+
+[[bin]]
+name = "q051"
+path = "src/q051.rs"
+
+[[bin]]
+name = "q052"
+path = "src/q052.rs"
+
+[[bin]]
+name = "q053"
+path = "src/q053.rs"
+
+[[bin]]
+name = "q054"
+path = "src/q054.rs"
+
+[[bin]]
+name = "q055"
+path = "src/q055.rs"
+
+[[bin]]
+name = "q056"
+path = "src/q056.rs"
+
+[[bin]]
+name = "q057"
+path = "src/q057.rs"
+
+[[bin]]
+name = "q058"
+path = "src/q058.rs"
+
+[[bin]]
+name = "q059"
+path = "src/q059.rs"
+
+[[bin]]
+name = "q060"
+path = "src/q060.rs"
+
+[[bin]]
+name = "q061"
+path = "src/q061.rs"
+
+[[bin]]
+name = "q062"
+path = "src/q062.rs"
+
+[[bin]]
+name = "q063"
+path = "src/q063.rs"
+
+[[bin]]
+name = "q064"
+path = "src/q064.rs"
+
+[[bin]]
+name = "q065"
+path = "src/q065.rs"
+
+[[bin]]
+name = "q066"
+path = "src/q066.rs"
+
+[[bin]]
+name = "q067"
+path = "src/q067.rs"
+
+[[bin]]
+name = "q068"
+path = "src/q068.rs"
+
+[[bin]]
+name = "q069"
+path = "src/q069.rs"
+
+[[bin]]
+name = "q070"
+path = "src/q070.rs"
+
+[[bin]]
+name = "q071"
+path = "src/q071.rs"
+
+[[bin]]
+name = "q072"
+path = "src/q072.rs"
+
+[[bin]]
+name = "q073"
+path = "src/q073.rs"
+
+[[bin]]
+name = "q074"
+path = "src/q074.rs"
+
+[[bin]]
+name = "q075"
+path = "src/q075.rs"
+
+[[bin]]
+name = "q076"
+path = "src/q076.rs"
+
+[[bin]]
+name = "q077"
+path = "src/q077.rs"
+
+[[bin]]
+name = "q078"
+path = "src/q078.rs"
+
+[[bin]]
+name = "q079"
+path = "src/q079.rs"
+
+[[bin]]
+name = "q080"
+path = "src/q080.rs"
+
+[[bin]]
+name = "q081"
+path = "src/q081.rs"
+
+[[bin]]
+name = "q082"
+path = "src/q082.rs"
+
+[[bin]]
+name = "q083"
+path = "src/q083.rs"
+
+[[bin]]
+name = "q084"
+path = "src/q084.rs"
+
+[[bin]]
+name = "q085"
+path = "src/q085.rs"
+
+[[bin]]
+name = "q086"
+path = "src/q086.rs"
+
+[[bin]]
+name = "q087"
+path = "src/q087.rs"
+
+[[bin]]
+name = "q088"
+path = "src/q088.rs"
+
+[[bin]]
+name = "q089"
+path = "src/q089.rs"
+
+[[bin]]
+name = "q090"
+path = "src/q090.rs"
+
+[[bin]]
+name = "q091"
+path = "src/q091.rs"
+
+[[bin]]
+name = "q092"
+path = "src/q092.rs"
+
+[[bin]]
+name = "q093"
+path = "src/q093.rs"
+
+[[bin]]
+name = "q094"
+path = "src/q094.rs"
+
+[[bin]]
+name = "q095"
+path = "src/q095.rs"
+
+[[bin]]
+name = "q096"
+path = "src/q096.rs"
+
+[[bin]]
+name = "q097"
+path = "src/q097.rs"
+
+[[bin]]
+name = "q098"
+path = "src/q098.rs"
+
+[[bin]]
+name = "q099"
+path = "src/q099.rs"
+
+[[bin]]
+name = "q100"
+path = "src/q100.rs"
